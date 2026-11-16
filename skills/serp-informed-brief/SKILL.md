@@ -30,7 +30,7 @@ What sections most results share. Format as "X of N include this." Example:
 > - 7/10 include a numbered setup walkthrough
 > - 6/10 include screenshots
 > - 5/10 include a system-prompt example
-> - 0/10 include a Vault-style structured intake (white space)
+> - 0/10 include a structured intake form (white space)
 
 The "0/N" line is often the most strategically interesting, it's the white space.
 
@@ -70,7 +70,7 @@ A short list of moves the brief explicitly skips. Common culprits:
 - **Refuse to chase word count for its own sake.** A 1,400-word brief that beats a 3,200-word generic post is the right move; don't recommend 3,500 just because the average is high.
 - **Don't recommend "comprehensive" briefs.** Comprehensive is the loser's strategy. Beat on something specific.
 - **Mark anything inferred.** If you couldn't see the actual content for a result (e.g., gated behind a paywall), say so.
-- **Tell the user when the SERP is unwinnable**, sometimes the top-10 includes Anthropic's own docs, NIH, the IRS, or a 25-year domain authority. The brief in that case is "don't write this; pick a long-tail variant or a content angle they don't own."
+- **Tell the user when the SERP is unwinnable**, sometimes the top-10 includes official docs, government or medical authorities, or a site with decades of authority. The brief in that case is "don't write this; pick a long-tail variant or a content angle they don't own."
 
 ## How to use the output
 

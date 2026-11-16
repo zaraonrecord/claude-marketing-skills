@@ -1,6 +1,6 @@
 ---
 name: competitive-landscape-teardown
-description: Structured analysis of 3 to 7 competitors across positioning, pricing, ICP, product strengths, and exploitable weaknesses. Use when a marketer pastes competitor URLs, pricing pages, G2 reviews, or homepage copy and asks Claude to map the competitive landscape and find white space. Outputs a comparison matrix, a 150-word executive summary identifying defensible white space, and three sharp testable positioning hypotheses with kill criteria.
+description: Structured analysis of 3 to 7 competitors across positioning, pricing, ICP, product strengths, and exploitable weaknesses. Use when a marketer pastes competitor URLs, pricing pages, software reviews, or homepage copy and asks Claude to map the competitive landscape and find white space. Outputs a comparison matrix, a 150-word executive summary identifying defensible white space, and three sharp testable positioning hypotheses with kill criteria.
 ---
 
 # Competitive Landscape Teardown
@@ -14,7 +14,7 @@ Ask for, in this order:
 1. **The company being analyzed** (their company)
 2. **The market category** (e.g., "B2B project management for product teams," "SMB email marketing," "DTC skincare"). Push back if it's too broad, "marketing software" isn't a category.
 3. **3 to 7 competitors** they want compared (if they give you more than 7, ask which they consider their primary 3)
-4. **Source material** for each competitor, competitor URLs (homepage, pricing page, /about), pasted G2 or TrustRadius reviews, a paragraph from their last earnings call if public, recent press. The more grounded text you have, the less you have to infer.
+4. **Source material** for each competitor, competitor URLs (homepage, pricing page, /about), pasted reviews from software review sites, a paragraph from their last earnings call if public, recent press. The more grounded text you have, the less you have to infer.
 
 If the user only gives you names with no source material, ask them to paste at least the homepage hero copy and pricing page for each competitor. Inferred analysis is brittle.
 
@@ -56,8 +56,8 @@ Three sharp, testable positioning statements the company being analyzed could ad
 
 Example:
 
-> **Positioning:** "Linear's polish, Asana's depth, built for PMs."
-> **Kill criterion:** PMs in user research say "but I just use Linear too." If 60%+ of target PM interviews say this, the positioning is too thin to defend.
+> **Positioning:** "The market leader's polish, the enterprise tool's depth, built for small product teams."
+> **Kill criterion:** product managers in user research say "but I just use the market leader too." If 60%+ of target interviews say this, the positioning is too thin to defend.
 
 ## Rules
 

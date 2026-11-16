@@ -68,12 +68,12 @@ Each recommendation must be **a specific action with an owner-shaped verb** ("au
 - **Refuse to declare a trend from <2 data points.** A single week-over-week comparison is noise. Say so.
 - **Call out small-N, selection bias, and seasonal noise explicitly.** If the dataset is small or the period is unusual (holiday, product launch), name it before drawing conclusions.
 - **Distinguish measurement artifacts from real performance changes.** iOS updates, attribution model changes, dashboard bugs, sample-rate changes, these masquerade as performance changes constantly. When you see a sharp shift, ask whether anything in the measurement environment changed before declaring a performance issue.
-- **No "we should test X" recommendations without specifying the test.** "We should A/B test creative" is not a recommendation. "Run a 10% geo holdout on Meta for 14 days, measuring CPA, before refreshing creative" is.
+- **No "we should test X" recommendations without specifying the test.** "We should A/B test creative" is not a recommendation. "Run a 10% geo holdout on paid social for 14 days, measuring CPA, before refreshing creative" is.
 - **No "exciting opportunity" or "concerning trend" language.** State what's true. The reader can decide whether to be excited or concerned.
 
 ## How to use the output
 
-The readout is meant to be paste-ready into a doc, deck, or Slack standup. The follow-up questions should be assigned to specific people for the next period. The recommendations should be tracked, if no one acts on them, the next readout should say so.
+The readout is meant to be paste-ready into a doc, a deck, or a team chat standup. The follow-up questions should be assigned to specific people for the next period. The recommendations should be tracked, if no one acts on them, the next readout should say so.
 
 Re-run this skill weekly or monthly with consistent goals + data shape; the readouts compound when they're comparable across periods.
 
