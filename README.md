@@ -97,6 +97,10 @@ Once a Skill is installed, ask for the job in plain words and Claude picks the S
 
 They are instructions only. No code runs, nothing is sent anywhere, and no data is collected or stored by the Skills. Claude works with what you give it in the chat. Skills that need your own material (a style guide, an offer file) ask for it instead of guessing.
 
+## Privacy
+
+The Skills read only what you give Claude in the chat (or what Claude can already reach through connectors you've set up). They store nothing and send nothing anywhere. Marketing Prompt Hub's privacy policy: https://marketingprompthub.com/privacy.html
+
 ## Support
 
 Questions, problems or a Skill that misbehaves: open an issue on this repo or email hello@marketingprompthub.com.
