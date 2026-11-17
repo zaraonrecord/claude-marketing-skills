@@ -1,0 +1,13 @@
+{
+  "name": "marketing-skills",
+  "version": "1.0.0",
+  "description": "23 free Claude Skills for marketers: brand voice, competitive teardowns, SEO briefs, performance readouts, email, social, claims and slop checks. From Marketing Prompt Hub.",
+  "author": {
+    "name": "Marketing Prompt Hub",
+    "url": "https://marketingprompthub.com"
+  },
+  "homepage": "https://marketingprompthub.com/skills/",
+  "repository": "https://github.com/zaraonrecord/claude-marketing-skills",
+  "license": "CC-BY-4.0",
+  "keywords": ["marketing", "seo", "brand voice", "content", "email", "social media", "competitive analysis", "reporting"]
+}

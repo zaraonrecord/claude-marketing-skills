@@ -1,0 +1,15 @@
+{
+  "name": "marketing-prompt-hub",
+  "description": "Free Claude Skills for marketers from Marketing Prompt Hub.",
+  "owner": {
+    "name": "Marketing Prompt Hub",
+    "url": "https://marketingprompthub.com"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skills",
+      "source": "./",
+      "description": "23 free Claude Skills for marketers from Marketing Prompt Hub."
+    }
+  ]
+}

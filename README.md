@@ -11,7 +11,12 @@ From [Marketing Prompt Hub](https://marketingprompthub.com/). Free under CC BY 4
 2. Make sure code execution is on under Settings, Capabilities.
 3. Go to Customize (or Plugins), then Skills, click **+**, choose **Create skill**, then **Upload a skill**, and pick the zip.
 
-**Claude Code**
+**Claude Code, as a plugin (all 23 at once)**
+```
+/plugin install marketing-skills --marketplace zaraonrecord/claude-marketing-skills
+```
+
+**Claude Code, one Skill at a time**
 Copy the Skill's folder into `~/.claude/skills/` (for you) or `.claude/skills/` in a project (for everyone on it):
 
 ```bash
