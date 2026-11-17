@@ -81,8 +81,20 @@ Want to know when a Skill earns its place and when a plain prompt is enough? [Cl
 
 ## More
 
-- [30 Claude prompts for marketers](https://marketingprompthub.com/prompts/), four of them free in full
+- [50 Claude prompts for marketers](https://marketingprompthub.com/prompts/), four of them free in full
+- [15 marketing playbooks](https://marketingprompthub.com/playbooks/): real jobs step by step, with the prompts and connectors each one uses
+- [Claude connectors for marketers](https://marketingprompthub.com/connectors/): what to plug in, how, and what to do when there is no connector
 - [The Hub](https://marketingprompthub.com/): the full prompt library, playbooks and agent blueprints, one payment, nothing renews
+
+## New to Claude?
+
+- [How to start using Claude in 2026](https://marketingprompthub.com/blog/how-to-start-using-claude): what to set up on day one, and what to ignore
+- [25 things to ask Claude on your first day](https://marketingprompthub.com/blog/things-to-ask-claude-first-day)
+- [12 mistakes beginners make with Claude](https://marketingprompthub.com/blog/claude-beginner-mistakes)
+- [Claude Free vs Pro vs Max](https://marketingprompthub.com/blog/claude-free-vs-pro-vs-max): which plan you actually need
+- [20 ways to use Claude at work that aren't writing emails](https://marketingprompthub.com/blog/ways-to-use-claude-at-work)
+- [How to launch a business with Claude](https://marketingprompthub.com/blog/launch-a-business-with-claude): a 30 day plan from idea to first customer
+- [15 Claude prompts for starting a business](https://marketingprompthub.com/blog/claude-prompts-for-starting-a-business)
 
 ## Licence
 
