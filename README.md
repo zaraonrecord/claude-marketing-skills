@@ -1,6 +1,6 @@
 # Claude Skills for marketers
 
-23 free Claude Skills for marketing work: writing, SEO, research, email, ads, reviews and running a site. Each one is something we actually use, written to stop Claude doing the things that make AI marketing output useless: inventing numbers, padding to length, publishing without asking, and sounding like everyone else.
+24 free Claude Skills for marketing work: writing, SEO, research, email, ads, reviews and running a site. Each one is something we actually use, written to stop Claude doing the things that make AI marketing output useless: inventing numbers, padding to length, publishing without asking, and sounding like everyone else.
 
 From [Marketing Prompt Hub](https://marketingprompthub.com/). Free under CC BY 4.0.
 
@@ -11,7 +11,7 @@ From [Marketing Prompt Hub](https://marketingprompthub.com/). Free under CC BY 4
 2. Make sure code execution is on under Settings, Capabilities.
 3. Go to Customize (or Plugins), then Skills, click **+**, choose **Create skill**, then **Upload a skill**, and pick the zip.
 
-**Claude Code, as a plugin (all 23 at once)**
+**Claude Code, as a plugin (all 24 at once)**
 ```
 /plugin install marketing-skills --marketplace zaraonrecord/claude-marketing-skills
 ```
@@ -72,6 +72,7 @@ Some Skills come with a fill-in file (a style guide, an offer file, a watchlist)
 | [ads-consent-check](skills/ads-consent-check/) | Checks your cookie banner, ads and privacy page against what the site really does |
 | [honest-review-rules](skills/honest-review-rules/) | Owned, Tried or Wishlist on every product, affiliate links declared up front |
 | [source-terms-log](skills/source-terms-log/) | A dated record of how you use each API or data source, checked against its terms |
+| [content-protection-audit](skills/content-protection-audit/) | Protects a site from content theft and AI scraping: security headers, AI training opt-outs, usage terms, watermarks and leak checks |
 
 ## How these are written
 
