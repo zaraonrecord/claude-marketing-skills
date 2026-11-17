@@ -1,6 +1,7 @@
 {
   "name": "mph-marketing-skills",
-  "version": "1.1.1",
+  "displayName": "Marketing Prompt Hub Skills",
+  "version": "1.1.2",
   "description": "24 free marketing Skills built on guard rails: never invent numbers, drafts only until you approve, claims, slop, consent and review checks, site protection, plus brand voice, competitive, SEO, email and reporting. From Marketing Prompt Hub.",
   "author": {
     "name": "Marketing Prompt Hub",
@@ -18,5 +19,8 @@
     "social media",
     "competitive analysis",
     "reporting"
-  ]
+  ],
+  "supportUrl": "https://github.com/zaraonrecord/claude-marketing-skills/issues",
+  "documentationUrl": "https://github.com/zaraonrecord/claude-marketing-skills#readme",
+  "termsOfServiceUrl": "https://marketingprompthub.com/terms.html"
 }
