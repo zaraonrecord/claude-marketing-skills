@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "marketing-skills",
+      "name": "mph-marketing-skills",
       "source": "./",
       "description": "24 free Claude Skills for marketers from Marketing Prompt Hub."
     }

@@ -7,13 +7,13 @@ From [Marketing Prompt Hub](https://marketingprompthub.com/). Free under CC BY 4
 ## Install
 
 **Claude.ai or the desktop app**
-1. Download the zip for the Skill you want from [`dist/`](dist/).
+1. Download the zip for the Skill you want from the [latest release](https://github.com/zaraonrecord/claude-marketing-skills/releases/latest) (or `all-skills.zip` for every one).
 2. Make sure code execution is on under Settings, Capabilities.
 3. Go to Customize (or Plugins), then Skills, click **+**, choose **Create skill**, then **Upload a skill**, and pick the zip.
 
 **Claude Code, as a plugin (all 24 at once)**
 ```
-/plugin install marketing-skills --marketplace zaraonrecord/claude-marketing-skills
+/plugin install mph-marketing-skills --marketplace zaraonrecord/claude-marketing-skills
 ```
 
 **Claude Code, one Skill at a time**
@@ -85,22 +85,26 @@ Every Skill follows the same few rules:
 
 Want to know when a Skill earns its place and when a plain prompt is enough? [Claude Skills for marketing: the complete guide](https://marketingprompthub.com/blog/claude-skills-for-marketing).
 
-## More
+## Examples
 
-- [50 Claude prompts for marketers](https://marketingprompthub.com/prompts/), four of them free in full
-- [15 marketing playbooks](https://marketingprompthub.com/playbooks/): real jobs step by step, with the prompts and connectors each one uses
-- [Claude connectors for marketers](https://marketingprompthub.com/connectors/): what to plug in, how, and what to do when there is no connector
-- [The Hub](https://marketingprompthub.com/): the full prompt library, playbooks and agent blueprints, one payment, nothing renews
+Once a Skill is installed, ask for the job in plain words and Claude picks the Skill up:
 
-## New to Claude?
+1. "Here are three of our newsletters. Build me a voice and tone guide I can hand to a freelancer." (voice-tone-extractor)
+2. "Tear down these four competitors' pricing pages and tell me where we're positioned wrong. Don't invent numbers." (competitive-landscape-teardown)
+3. "Here's last month's channel export. Write the performance readout for Monday's meeting." (performance-readout)
+4. "Audit example.com for content theft and AI scraping risks and draft the fixes." (content-protection-audit)
 
-- [How to start using Claude in 2026](https://marketingprompthub.com/blog/how-to-start-using-claude): what to set up on day one, and what to ignore
-- [25 things to ask Claude on your first day](https://marketingprompthub.com/blog/things-to-ask-claude-first-day)
-- [12 mistakes beginners make with Claude](https://marketingprompthub.com/blog/claude-beginner-mistakes)
-- [Claude Free vs Pro vs Max](https://marketingprompthub.com/blog/claude-free-vs-pro-vs-max): which plan you actually need
-- [20 ways to use Claude at work that aren't writing emails](https://marketingprompthub.com/blog/ways-to-use-claude-at-work)
-- [How to launch a business with Claude](https://marketingprompthub.com/blog/launch-a-business-with-claude): a 30 day plan from idea to first customer
-- [15 Claude prompts for starting a business](https://marketingprompthub.com/blog/claude-prompts-for-starting-a-business)
+## What these Skills do and don't do
+
+They are instructions only. No code runs, nothing is sent anywhere, and no data is collected or stored by the Skills. Claude works with what you give it in the chat. Skills that need your own material (a style guide, an offer file) ask for it instead of guessing.
+
+## Support
+
+Questions, problems or a Skill that misbehaves: open an issue on this repo or email hello@marketingprompthub.com.
+
+## More from the author
+
+These Skills come from [Marketing Prompt Hub](https://marketingprompthub.com/), which also publishes free guides such as [how to start using Claude](https://marketingprompthub.com/blog/how-to-start-using-claude), [step by step marketing playbooks](https://marketingprompthub.com/playbooks/) and [which connectors marketers need](https://marketingprompthub.com/connectors/).
 
 ## Licence
 
