@@ -9,7 +9,7 @@ From [Marketing Prompt Hub](https://marketingprompthub.com/). Free under CC BY 4
 **Claude.ai or the desktop app**
 1. Download the zip for the Skill you want from [`dist/`](dist/).
 2. Make sure code execution is on under Settings, Capabilities.
-3. Go to Customize, then Skills, click **+**, choose **Create skill**, then **Upload a skill**, and pick the zip.
+3. Go to Customize (or Plugins), then Skills, click **+**, choose **Create skill**, then **Upload a skill**, and pick the zip.
 
 **Claude Code**
 Copy the Skill's folder into `~/.claude/skills/` (for you) or `.claude/skills/` in a project (for everyone on it):
