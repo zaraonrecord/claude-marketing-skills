@@ -21,12 +21,7 @@ Most marketing Skills help Claude write more. These mostly stop it doing damage:
 ```
 
 **Claude Code, one Skill at a time**
-Copy the Skill's folder into `~/.claude/skills/` (for you) or `.claude/skills/` in a project (for everyone on it):
-
-```bash
-git clone https://github.com/zaraonrecord/claude-marketing-skills.git
-cp -R claude-marketing-skills/skills/slop-guard ~/.claude/skills/
-```
+Unzip the Skill from the [latest release](https://github.com/zaraonrecord/claude-marketing-skills/releases/latest) and put its folder in `~/.claude/skills/` (for you) or `.claude/skills/` in a project (for everyone on it).
 
 Anthropic's own guides: [using Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude) and [Skills in Claude Code](https://code.claude.com/docs/en/skills).
 
