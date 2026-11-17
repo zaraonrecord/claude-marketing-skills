@@ -1,7 +1,7 @@
 {
   "name": "mph-marketing-skills",
-  "version": "1.1.0",
-  "description": "24 free Claude Skills for marketers: brand voice, competitive teardowns, SEO briefs, performance readouts, email, social, claims and slop checks, and site protection. From Marketing Prompt Hub.",
+  "version": "1.1.1",
+  "description": "24 free marketing Skills built on guard rails: never invent numbers, drafts only until you approve, claims, slop, consent and review checks, site protection, plus brand voice, competitive, SEO, email and reporting. From Marketing Prompt Hub.",
   "author": {
     "name": "Marketing Prompt Hub",
     "url": "https://marketingprompthub.com"

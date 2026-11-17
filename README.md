@@ -4,6 +4,10 @@
 
 From [Marketing Prompt Hub](https://marketingprompthub.com/). Free under CC BY 4.0.
 
+## How these differ from general marketing Skills
+
+Most marketing Skills help Claude write more. These mostly stop it doing damage: they refuse to invent numbers or quotes, keep everything as a draft until a human approves, and check claims, consent banners, reviews and AI scraping before something goes live. The rest cover the everyday jobs (brand voice, competitor teardowns, SEO briefs, email sequences, performance readouts) with the same rules built in.
+
 ## Install
 
 **Claude.ai or the desktop app**
