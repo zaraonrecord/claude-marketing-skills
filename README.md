@@ -17,7 +17,8 @@ Most marketing Skills help Claude write more. These mostly stop it doing damage:
 
 **Claude Code, as a plugin (all 24 at once)**
 ```
-/plugin install mph-marketing-skills --marketplace zaraonrecord/claude-marketing-skills
+/plugin marketplace add zaraonrecord/claude-marketing-skills
+/plugin install mph-marketing-skills@marketing-prompt-hub
 ```
 
 **Claude Code, one Skill at a time**
