@@ -42,6 +42,8 @@ Some Skills come with a fill-in file (a style guide, an offer file, a watchlist)
 | [case-study-writer](skills/case-study-writer/) | Turns project notes into a short, honest case study with real numbers only |
 
 ### SEO
+Which to install first, and how to use them in Claude Code: [the best Claude SEO Skills](https://marketingprompthub.com/blog/claude-skills-for-seo).
+
 | Skill | What it does |
 |---|---|
 | [serp-informed-brief](skills/serp-informed-brief/) | A content brief built from the results that actually rank |
