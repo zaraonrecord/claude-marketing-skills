@@ -69,7 +69,3 @@ Example:
 ## How to use the output
 
 The matrix is for the working session; the executive summary and hypotheses are what survive into a strategy doc. Run the kill-criteria checks against actual user research before committing to a positioning bet.
-
----
-
-*This skill is part of [Marketing Prompt Hub](https://marketingprompthub.com): 30 tested prompts for marketers using Claude. The library has 4 Market Research prompts including this one, plus ICP Interview Synthesizer, Trend Signal Scanner, and Survey Question Designer. The full library, playbooks, agent blueprints and Reporting Kit are in the Hub, $149 one-time. 30-day no-questions refund.*

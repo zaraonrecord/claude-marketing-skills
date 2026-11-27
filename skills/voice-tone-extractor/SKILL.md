@@ -77,7 +77,3 @@ A single 60 to 80 word paragraph a new hire could read once and internalize. Dis
 ## How to use the output
 
 The output of this skill is itself a system prompt. Feed it back into Claude (in a Claude Project, Claude Code, or as the system prompt for any future content generation) and the brand voice will hold. Re-run this skill quarterly as the voice evolves.
-
----
-
-*This skill is part of [Marketing Prompt Hub](https://marketingprompthub.com): 30 tested prompts for marketers using Claude. The full library, playbooks, agent blueprints and Reporting Kit are in the Hub, $149 one-time. 30-day no-questions refund.*

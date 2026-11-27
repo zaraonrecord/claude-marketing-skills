@@ -76,7 +76,3 @@ Each recommendation must be **a specific action with an owner-shaped verb** ("au
 The readout is meant to be paste-ready into a doc, a deck, or a team chat standup. The follow-up questions should be assigned to specific people for the next period. The recommendations should be tracked, if no one acts on them, the next readout should say so.
 
 Re-run this skill weekly or monthly with consistent goals + data shape; the readouts compound when they're comparable across periods.
-
----
-
-*This skill is part of [Marketing Prompt Hub](https://marketingprompthub.com): 30 tested prompts for marketers using Claude. The library has 3 Data Analysis prompts including this one, plus the A/B Test Result Interpreter and Attribution Sanity Checker. The full library, playbooks, agent blueprints and Reporting Kit are in the Hub, $149 one-time. 30-day no-questions refund.*

@@ -75,7 +75,3 @@ A short list of moves the brief explicitly skips. Common culprits:
 ## How to use the output
 
 The brief is a working document. Send it to the writer (human or AI), and use the "must beat on" section as the QA checklist when reviewing the draft. If the draft hits table stakes but doesn't beat on a single gap, send it back.
-
----
-
-*This skill is part of [Marketing Prompt Hub](https://marketingprompthub.com): 30 tested prompts for marketers using Claude. The library has 9 SEO prompts including this one, plus Topic Cluster Architect, Content Decay Hunter, Internal Linking Architect, E-E-A-T Audit, and 4 more. The full library, playbooks, agent blueprints and Reporting Kit are in the Hub, $149 one-time. 30-day no-questions refund.*
